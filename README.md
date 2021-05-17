@@ -1,3 +1,13 @@
+# How to use
+
+This app uses the pokemon api , to search for your favorite pokemon just type the name in the search bar and press on the search icon or try typing a number like 1 or 2 to search by id
+ex:
+pikachu
+charizard
+1
+2
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
